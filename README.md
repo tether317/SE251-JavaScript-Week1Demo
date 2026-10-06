@@ -1,1 +1,1 @@
-# SE252-JavaScript-Week1Demo
+# SE251-JavaScript-Week1Demo
